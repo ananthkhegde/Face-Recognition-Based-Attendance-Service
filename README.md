@@ -56,26 +56,25 @@ https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiDz
                 "code": "0"
             }
          ```
-         
+        
+   #### Identifying the faces(image encoding)
+ ![alt text](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/blob/master/assets/response.png)      
   * POST /identifyface/
     * Recognizes Face(s) in an Image and returns matching face id/name.
     * Request:
         *    Request Type -- multipart/form-data
         * parameters (key value pair)
          *  key = file , value = link to your file,type = file
-         
- #### Identifying the faces(image encoding)
- ![alt text](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/blob/master/assets/response.png)
     * Response:
-         ```python
+         ```
            [
               {
-                  "id": 1,
-                  "name": "Venkat"
+                  "faceId": 1,
+                  "faceName": "Venkat"
               },
               {
-                  "id": 2,
-                  "name": "Ananth"
+                  "faceId": 2,
+                  "faceName": "Ananth"
               }
            ]   
          ```
