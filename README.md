@@ -63,16 +63,19 @@ https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiDz
         *    Request Type -- multipart/form-data
         * parameters (key value pair)
          *  key = file , value = link to your file,type = file
+         
+ #### Identifying the faces(image encoding)
+ ![alt text](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/blob/master/assets/response.png)
     * Response:
          ```python
            [
               {
                   "id": 1,
-                  "name": "user1"
+                  "name": "Venkat"
               },
               {
                   "id": 2,
-                  "name": "user2"
+                  "name": "Ananth"
               }
            ]   
          ```
