@@ -24,7 +24,7 @@ Requirements:
 * postgre sql
 
 ## Guide to setting up database
-* restore database backup file from [here](https://github.com/CSTEPBLR/Face-Recognition-Service/blob/master/assets/https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/tree/master/database)
+* restore database backup file from [here](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/tree/master/database)
 * edit the database connection in setting.py in project file to connect locally
 
 ## Instruction to run project
@@ -57,7 +57,7 @@ https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiDz
             }
          ```
         
-   #### Identifying the faces(image encoding)
+#### Identifying the faces(image encoding)
  ![alt text](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/blob/master/assets/response.png)      
   * POST /identifyface/
     * Recognizes Face(s) in an Image and returns matching face id/name.
