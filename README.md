@@ -1,4 +1,4 @@
-# Face Recognition - Attendance service
+# Face Recognition - Attendance Service
 
 Recognize faces from Python with
 the world's simplest face recognition library [python face_recognition](https://github.com/ageitgey/face_recognition/).
@@ -31,7 +31,7 @@ Requirements:
 
 * save project to local directory
 * go to project folder i.e cd facecognition and execute below command
-* python manage.py runserver 8000
+* python manage.py runserver 8001
 
 
 ## Guide to installing and running Rest service through API Client
