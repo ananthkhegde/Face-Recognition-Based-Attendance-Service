@@ -31,7 +31,7 @@ Requirements:
 
 * save project to local directory
 * go to project folder i.e cd facecognition and execute below command
-* python manage.py runserver 8001
+* python manage.py runserver 0.0.0.0:8001
 
 
 ## Guide to installing and running Rest service through API Client
