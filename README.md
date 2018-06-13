@@ -40,6 +40,7 @@ Requirements:
 https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiDzOrtmM_VAhWMo48KHYfyC9UQFgglMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fpostman%2Ffhbjgbiflinjbdggehcddcbncdddomop%3Fhl%3Den&usg=AFQjCNE_Yq59TT1ZExzJ68FTldg4ho_lGw
 
 ### Rest API
+![alt text](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/blob/master/assets/ananth.jpg)
 * POST /encodeface/
  * Encodes Face in an Image and saves it in database and returns response message
    * Request:
