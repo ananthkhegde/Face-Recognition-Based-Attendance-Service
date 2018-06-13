@@ -1,4 +1,4 @@
-# Face Recognition
+# Face Recognition - Attendance service
 
 Recognize faces from Python with
 the world's simplest face recognition library [python face_recognition](https://github.com/ageitgey/face_recognition/).
