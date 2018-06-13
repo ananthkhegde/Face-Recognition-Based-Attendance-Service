@@ -24,7 +24,7 @@ Requirements:
 * postgre sql
 
 ## Guide to setting up database
-* restore database backup file from [here](https://github.com/CSTEPBLR/Face-Recognition-Service/blob/master/assets/anganwadi_db)
+* restore database backup file from [here](https://github.com/CSTEPBLR/Face-Recognition-Service/blob/master/assets/https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/tree/master/database)
 * edit the database connection in setting.py in project file to connect locally
 
 ## Instruction to run project
