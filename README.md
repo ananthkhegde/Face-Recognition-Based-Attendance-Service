@@ -21,7 +21,7 @@ Requirements:
 * Python 3+
 * numpy
 * scipy
-* dlib (prerequisites: install cmake(min version required 3.4)
+* dlib
 * face_recognition
 * django
 * django rest framework
