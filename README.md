@@ -18,7 +18,7 @@ built with deep learning. The model has an accuracy of 99.38% on the
 ## Installation
 
 Requirements:
-* Python 3+
+* python 3+
 * numpy
 * scipy
 * dlib (prerequisite cmake)
@@ -29,13 +29,13 @@ Requirements:
 * postgre sql
 
 ## Guide to setting up database
-* restore database backup file from [here](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-Service/tree/master/database)
-* edit the database connection in setting.py in project file to connect locally
+* Restore database backup file from [here](https://github.com/ananthkhegde/Face-Recognition-Based-Attendance-                             Service/tree/master/database)
+* Edit the database connection in setting.py in project file to connect locally
 
 ## Instruction to run project
 
-* save project to local directory
-* go to project folder i.e cd facecognition and execute below command
+* Save project to local directory
+* Go to project folder i.e cd facecognition and execute below command
 * python manage.py runserver 0.0.0.0:8001
 
 
