@@ -12,7 +12,7 @@ built with deep learning. The model has an accuracy of 99.38% on the
 
 ## About project
  * There are 2 API's developed as a part of this project
- * API (/encodeface/) - to train person face. Input to this API is indidual facial photo of a person.It extract facial feature and          computes the face encoding and stores it in database for matching purpose
+ * API (/encodeface/) - to train person face. Input to this API is individual facial photo of a person.It extract facial feature and        computes the face encoding and stores it in database for matching purpose
  * API (/identifyface/) - to get all the matching faces from the database. Input can be photo containing indidual face or group of          faces. It works by counting the no of faces and computes face encoding and matches all the face encoding in the database and            returns list of identified faces present in input image
 
 ## Installation
